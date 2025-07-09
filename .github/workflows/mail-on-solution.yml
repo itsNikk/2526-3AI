@@ -3,7 +3,7 @@ name: Invia email su commit "SOLUZIONE"
 on:
   push:
     branches:
-      - main  # sostituire se main branch non ha qeusto n
+      - main  # modifica se il branch principale ha un altro nome
 
 jobs:
   send_email:
@@ -31,6 +31,6 @@ jobs:
             Controllate il repository per i dettagli.
 
             - NB
-	  to: ${{ secrets.STUDENTI_EMAIL }}
+          to: ${{ secrets.STUDENTI_EMAIL }}
           from: GitHub Actions <${{ secrets.EMAIL_ADDRESS }}>
           secure: true
