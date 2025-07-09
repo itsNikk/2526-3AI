@@ -25,7 +25,7 @@ jobs:
 
             🧪 Commit realizzato da: ${{ github.actor }}
             🔗 Branch: ${{ github.ref }}
-            ✏️ Messaggi dei commit:
+            ✏️ Messaggio del commit:
             ${{ join(github.event.commits.*.message, '\n') }}
 
             Controllate il repository per i dettagli.
