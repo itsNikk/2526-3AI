@@ -1,0 +1,36 @@
+name: Invia email su commit "SOLUZIONE"
+
+on:
+  push:
+    branches:
+      - main  # sostituire se main branch non ha qeusto n
+
+jobs:
+  send_email:
+    if: github.event.commits.*.message != null && contains(join(github.event.commits.*.message, ' '), 'SOLUZIONE')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_ADDRESS }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "Nuova soluzione postata in ${{ github.repository }}"
+          body: |
+               Ciao ragazzi,
+
+            È stata appena pubblicata una nuova SOLUZIONE nel repository **${{ github.repository }}**.
+
+            🧪 Commit realizzato da: ${{ github.actor }}
+            🔗 Branch: ${{ github.ref }}
+            ✏️ Messaggi dei commit:
+            ${{ join(github.event.commits.*.message, '\n') }}
+
+            Controllate il repository per i dettagli.
+
+            - NB
+          to: ${{ secrets.EMAIL_ADDRESS }}
+          from: GitHub Actions <${{ secrets.EMAIL_ADDRESS }}>
+          secure: true
