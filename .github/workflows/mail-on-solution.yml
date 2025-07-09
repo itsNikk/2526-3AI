@@ -19,7 +19,7 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "Nuova soluzione postata in ${{ github.repository }}"
           body: |
-               Ciao ragazzi,
+            Ciao ragazzi,
 
             È stata appena pubblicata una nuova SOLUZIONE nel repository **${{ github.repository }}**.
 
@@ -31,6 +31,5 @@ jobs:
             Controllate il repository per i dettagli.
 
             - NB
-          to: ${{ secrets.STUDENTI_EMAILS }}
           from: GitHub Actions <${{ secrets.EMAIL_ADDRESS }}>
           secure: true
