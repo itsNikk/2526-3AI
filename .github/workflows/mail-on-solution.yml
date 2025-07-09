@@ -31,5 +31,6 @@ jobs:
             Controllate il repository per i dettagli.
 
             - NB
+	  to: ${{ secrets.STUDENTI_EMAIL }}
           from: GitHub Actions <${{ secrets.EMAIL_ADDRESS }}>
           secure: true
