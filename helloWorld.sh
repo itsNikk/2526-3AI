@@ -16,6 +16,7 @@ echo 'Ciao' $name
 
 a=$1
 b=$2
+ris=$(($a+$b))
 
 echo "$a + $b = $ris"
 
