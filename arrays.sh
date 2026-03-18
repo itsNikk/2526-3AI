@@ -16,9 +16,12 @@ do
     echo -n "$n "
 done
 #IFS= Internal File Separator
-for index in $(seq 0 ${#arr[@]}); do
+echo 
+for index in $(seq 0 $(( ${#arr[@]} - 1)) ); do
     echo ${arr[index]}
 done
+
+
 
 
 #SLICING - ${variabile:start:howMany}
