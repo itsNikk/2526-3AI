@@ -2,10 +2,10 @@
 
 # user tramite read inserisce N valori in un array
 # -a = array
-declare -a a
+declare -a b
 
-read -p "Dammi tutti i valori (sep da sapazio) " -a a
+read -p "Dammi tutti i valori (sep da sapazio) " -a b
 
-echo ${a[@]}
-echo ${a[0]}
+echo ${b[@]}
+echo ${b[0]}
 
