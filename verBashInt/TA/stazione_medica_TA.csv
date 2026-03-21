@@ -1,0 +1,91 @@
+paziente_id,nome_comune,nome_scientifico,reparto_letto,anno_ammissione,gravita,temp_corporea,diagnosi
+ZT-7798,flexus,Febris exotica,OSSERVAZIONE-70,2192,ALPHA,115,necrosi tissutale progressiva
+MK-2190,brevis,Febris exotica,ISOLAMENTO-88,2189,BETA,131,parassita endocellulare attivo
+XR-5715,fervidus,Larvatus endocellulis,CRIOGENIA-59,2187,GAMMA,205,paralisi neuromuscolare
+XR-7479,tenuis,Calculus migratorius,DEGENZA-15,2183,GAMMA,197,colonizzazione mucosa attiva
+ZT-8109,cristatus,Plasmodium galacticus,DEGENZA-48,2185,ALPHA,93,letargo metabolico indotto
+VX-3507,longus,Umbra consumens,TERAPIA-72,2188,BETA,19,rigenerazione cellulare accelerata
+XR-9044,laevis,Umbra consumens,DEGENZA-49,2182,BETA,42,parassita endocellulare attivo
+ZT-1135,pallidus,Toxicus proliferans,DEGENZA-83,2182,ALPHA,208,ipertermia resistente
+XR-8573,verrucosus,Helix parasiticus,OSSERVAZIONE-24,2193,BETA,141,portatore asintomatico
+XR-6006,glaucus,Symbiont muralis,OSSERVAZIONE-73,2192,ALPHA,130,letargo metabolico indotto
+VX-3114,flagellans,Crystallis pathogenus,CRIOGENIA-44,2180,BETA,218,febbre emorragica in fase acuta
+MK-9040,fervidus,Plasmodium galacticus,QUARANTENA-28,2181,ALPHA,214,risposta immune atipica
+NB-8927,ramosus,Toxicus proliferans,DEGENZA-65,2190,ALPHA,70,colonizzazione mucosa attiva
+ZT-8860,niger,Umbra consumens,OSSERVAZIONE-37,2191,DELTA,228,febbre emorragica in fase acuta
+MK-1023,gelidus,Sporulans aerius,DEGENZA-39,2181,BETA,101,paralisi neuromuscolare
+XR-3698,tremulus,Cryptovirus mendacis,DEGENZA-42,2185,BETA,250,emissione di tossine dermiche
+NB-8483,cristatus,Helix parasiticus,CRIOGENIA-77,2194,ALPHA,192,portatore asintomatico
+XR-4372,nodosus,Helix parasiticus,DEGENZA-95,2187,BETA,30,emissione di tossine dermiche
+NB-8901,nodosus,Fluidus invasivus,ISOLAMENTO-50,2180,BETA,25,febbre emorragica in fase acuta
+NB-5114,gelidus,Toxicus proliferans,TERAPIA-15,2194,BETA,113,bioluminescenza patologica
+XR-9592,silens,Sporulans aerius,OSSERVAZIONE-69,2187,BETA,25,trasmissione per contatto diretto
+XR-2008,asper,Toxicus proliferans,CRIOGENIA-54,2193,DELTA,150,sindrome da spore volatili
+ZT-7317,flexus,Calculus migratorius,QUARANTENA-68,2194,ALPHA,57,portatore asintomatico
+VX-4535,asper,Morbus stellaris,DEGENZA-45,2194,GAMMA,87,risposta immune atipica
+VX-2583,brevis,Cryptovirus mendacis,ISOLAMENTO-85,2182,BETA,235,febbre emorragica in fase acuta
+ZT-1335,longus,Fluidus invasivus,CRIOGENIA-44,2193,ALPHA,168,risposta immune atipica
+MK-4955,glaucus,Febris exotica,LABORATORIO-80,2184,GAMMA,231,sindrome da spore volatili
+MK-4067,durus,Plasmodium galacticus,OSSERVAZIONE-61,2186,GAMMA,124,necrosi tissutale progressiva
+XR-9269,mucosus,Fluidus invasivus,TERAPIA-43,2189,BETA,193,calcificazione ossea anomala
+NB-7702,mollis,Helix parasiticus,OSSERVAZIONE-72,2187,GAMMA,65,calcificazione ossea anomala
+ZT-1914,caeruleus,Crystallis pathogenus,QUARANTENA-14,2188,GAMMA,161,febbre emorragica in fase acuta
+ZT-7496,fervidus,Larvatus endocellulis,CRIOGENIA-50,2180,GAMMA,218,colonizzazione mucosa attiva
+MK-8327,aureus,Larvatus endocellulis,CRIOGENIA-22,2194,GAMMA,91,rigenerazione cellulare accelerata
+NB-9609,silens,Febris exotica,CRIOGENIA-38,2192,ALPHA,144,calcificazione ossea anomala
+MK-2762,mucosus,Calculus migratorius,OSSERVAZIONE-32,2195,GAMMA,148,ciclo larvale parassitario
+ZT-3909,flagellans,Umbra consumens,QUARANTENA-45,2184,ALPHA,81,ipotermia critica
+NB-8744,tremulus,Calculus migratorius,OSSERVAZIONE-35,2181,GAMMA,101,risposta immune atipica
+NB-1743,asper,Morbus stellaris,ISOLAMENTO-19,2183,BETA,184,ipertermia resistente
+NB-2772,fulvus,Morbus stellaris,OSSERVAZIONE-63,2192,BETA,129,paralisi neuromuscolare
+XR-2842,durus,Calculus migratorius,CRIOGENIA-33,2193,DELTA,200,portatore asintomatico
+VX-8225,pulsator,Symbiont muralis,LABORATORIO-68,2191,BETA,123,febbre emorragica in fase acuta
+VX-6553,fervidus,Fluidus invasivus,LABORATORIO-40,2190,ALPHA,36,portatore asintomatico
+MK-7842,mucosus,Necrosis lenta,QUARANTENA-52,2195,ALPHA,228,rigenerazione cellulare accelerata
+XR-9351,spinosus,Radiatus infectivus,TERAPIA-26,2184,BETA,32,parassita endocellulare attivo
+MK-2503,longus,Umbra consumens,QUARANTENA-21,2190,BETA,191,bioluminescenza patologica
+VX-1444,brevis,Cryptovirus mendacis,QUARANTENA-23,2180,ALPHA,27,rigenerazione cellulare accelerata
+VX-7423,niger,Cryptovirus mendacis,ISOLAMENTO-96,2182,BETA,199,ipotermia critica
+NB-4817,acutus,Calculus migratorius,ISOLAMENTO-30,2186,ALPHA,211,ciclo larvale parassitario
+MK-4847,rugosus,Symbiont muralis,CRIOGENIA-99,2186,GAMMA,69,parassita endocellulare attivo
+NB-6154,caeruleus,Toxicus proliferans,CRIOGENIA-65,2195,DELTA,98,sindrome da spore volatili
+MK-4741,mollis,Cryptovirus mendacis,DEGENZA-48,2191,ALPHA,204,risposta immune atipica
+VX-6940,caeruleus,Sporulans aerius,LABORATORIO-82,2194,ALPHA,153,paralisi neuromuscolare
+ZT-7297,roseus,Larvatus endocellulis,CRIOGENIA-91,2189,BETA,229,parassita endocellulare attivo
+VX-5442,durus,Umbra consumens,OSSERVAZIONE-77,2187,ALPHA,92,febbre emorragica in fase acuta
+XR-6600,ramosus,Plasmodium galacticus,TERAPIA-61,2184,BETA,104,necrosi tissutale progressiva
+XR-5188,spinosus,Toxicus proliferans,OSSERVAZIONE-15,2182,BETA,196,trasmissione per contatto diretto
+ZT-7296,roseus,Toxicus proliferans,CRIOGENIA-91,2182,DELTA,133,necrosi tissutale progressiva
+NB-7060,viridans,Calculus migratorius,TERAPIA-72,2195,BETA,40,rigenerazione cellulare accelerata
+MK-3703,mollis,Toxicus proliferans,ISOLAMENTO-88,2182,ALPHA,17,ipertermia resistente
+VX-9263,silens,Radiatus infectivus,CRIOGENIA-45,2190,GAMMA,37,risposta immune atipica
+NB-3556,crassus,Umbra consumens,ISOLAMENTO-12,2188,BETA,250,parassita endocellulare attivo
+XR-2407,aureus,Umbra consumens,TERAPIA-74,2184,ALPHA,145,emissione di tossine dermiche
+XR-3806,asper,Cryptovirus mendacis,OSSERVAZIONE-77,2194,GAMMA,157,ipotermia critica
+ZT-6981,rugosus,Sporulans aerius,QUARANTENA-26,2191,DELTA,211,trasmissione per contatto diretto
+NB-8576,glaucus,Morbus stellaris,DEGENZA-69,2190,GAMMA,49,trasmissione per contatto diretto
+ZT-4193,gelidus,Toxicus proliferans,OSSERVAZIONE-94,2194,ALPHA,232,sindrome da spore volatili
+VX-4092,mollis,Fluidus invasivus,ISOLAMENTO-42,2194,DELTA,216,risposta immune atipica
+XR-1213,glaucus,Necrosis lenta,LABORATORIO-18,2186,GAMMA,126,parassita endocellulare attivo
+ZT-3956,ciliatus,Crystallis pathogenus,QUARANTENA-46,2188,ALPHA,150,bioluminescenza patologica
+NB-4771,longus,Umbra consumens,ISOLAMENTO-95,2191,DELTA,246,ipotermia critica
+VX-6358,durus,Helix parasiticus,QUARANTENA-69,2188,GAMMA,129,colonizzazione mucosa attiva
+VX-2675,roseus,Cryptovirus mendacis,QUARANTENA-94,2181,GAMMA,154,portatore asintomatico
+XR-8525,rugosus,Larvatus endocellulis,LABORATORIO-66,2185,BETA,102,sindrome da spore volatili
+MK-4468,ramosus,Helix parasiticus,LABORATORIO-10,2189,GAMMA,124,simbiosi patologica con flora locale
+ZT-1217,tremulus,Helix parasiticus,TERAPIA-25,2192,BETA,25,risposta immune atipica
+NB-5620,flagellans,Radiatus infectivus,LABORATORIO-97,2195,GAMMA,232,parassita endocellulare attivo
+NB-6822,viridans,Helix parasiticus,LABORATORIO-68,2188,BETA,99,simbiosi patologica con flora locale
+ZT-9016,rugosus,Symbiont muralis,OSSERVAZIONE-88,2191,DELTA,174,simbiosi patologica con flora locale
+VX-5168,pulsator,Larvatus endocellulis,QUARANTENA-38,2191,ALPHA,102,ciclo larvale parassitario
+XR-3608,flexus,Febris exotica,TERAPIA-93,2188,GAMMA,70,portatore asintomatico
+NB-2251,longus,Febris exotica,TERAPIA-58,2183,BETA,91,letargo metabolico indotto
+XR-3046,caeruleus,Umbra consumens,LABORATORIO-15,2188,ALPHA,151,calcificazione ossea anomala
+MK-4618,laevis,Febris exotica,QUARANTENA-75,2195,ALPHA,45,simbiosi patologica con flora locale
+ZT-6271,nodosus,Umbra consumens,ISOLAMENTO-82,2184,GAMMA,123,ciclo larvale parassitario
+ZT-7239,acutus,Umbra consumens,QUARANTENA-93,2195,ALPHA,181,necrosi tissutale progressiva
+ZT-6577,laevis,Sporulans aerius,QUARANTENA-35,2194,ALPHA,136,portatore asintomatico
+ZT-2868,pulsator,Larvatus endocellulis,LABORATORIO-62,2180,BETA,118,sindrome da spore volatili
+VX-5087,viridans,Febris exotica,ISOLAMENTO-98,2194,DELTA,96,paralisi neuromuscolare
+XR-1626,pulsator,Sporulans aerius,QUARANTENA-96,2194,BETA,106,ipertermia resistente
+MK-8063,nodosus,Umbra consumens,QUARANTENA-32,2183,ALPHA,187,colonizzazione mucosa attiva

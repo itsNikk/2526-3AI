@@ -1,0 +1,91 @@
+paziente_id,nome_comune,nome_scientifico,reparto_letto,anno_ammissione,gravita,temp_corporea,diagnosi
+ZT-7402,pulsator,Larvatus endocellulis,OSSERVAZIONE-79,2185,DELTA,121,risposta immune atipica
+ZT-9648,tenuis,Morbus stellaris,TERAPIA-84,2194,BETA,43,sindrome da spore volatili
+NB-1766,pallidus,Calculus migratorius,ISOLAMENTO-16,2192,DELTA,142,febbre emorragica in fase acuta
+NB-1809,aureus,Fluidus invasivus,ISOLAMENTO-32,2181,GAMMA,121,trasmissione per contatto diretto
+NB-5062,pallidus,Cryptovirus mendacis,DEGENZA-10,2191,GAMMA,83,necrosi tissutale progressiva
+NB-7759,laevis,Larvatus endocellulis,TERAPIA-36,2182,GAMMA,18,portatore asintomatico
+NB-5898,roseus,Morbus stellaris,QUARANTENA-16,2189,GAMMA,223,colonizzazione mucosa attiva
+MK-6596,spinosus,Fluidus invasivus,TERAPIA-88,2182,GAMMA,167,calcificazione ossea anomala
+NB-6012,tremulus,Febris exotica,OSSERVAZIONE-49,2193,BETA,16,parassita endocellulare attivo
+VX-9950,silens,Toxicus proliferans,CRIOGENIA-38,2182,GAMMA,249,colonizzazione mucosa attiva
+VX-3413,flexus,Sporulans aerius,ISOLAMENTO-66,2192,DELTA,143,portatore asintomatico
+NB-3463,pulsator,Plasmodium galacticus,CRIOGENIA-53,2187,GAMMA,41,portatore asintomatico
+XR-9890,ramosus,Calculus migratorius,ISOLAMENTO-78,2182,DELTA,236,ipertermia resistente
+MK-4417,cristatus,Calculus migratorius,OSSERVAZIONE-80,2180,GAMMA,226,portatore asintomatico
+MK-5610,gelidus,Symbiont muralis,CRIOGENIA-35,2195,ALPHA,105,letargo metabolico indotto
+ZT-6242,flagellans,Febris exotica,QUARANTENA-38,2184,BETA,159,colonizzazione mucosa attiva
+VX-2781,tremulus,Symbiont muralis,TERAPIA-39,2191,BETA,71,parassita endocellulare attivo
+MK-1476,maculatus,Febris exotica,ISOLAMENTO-56,2188,ALPHA,102,risposta immune atipica
+MK-2374,ciliatus,Calculus migratorius,TERAPIA-61,2184,GAMMA,140,febbre emorragica in fase acuta
+VX-4426,bulbosus,Umbra consumens,OSSERVAZIONE-70,2184,BETA,128,ciclo larvale parassitario
+MK-4107,durus,Radiatus infectivus,TERAPIA-74,2190,ALPHA,76,trasmissione per contatto diretto
+NB-7874,brevis,Crystallis pathogenus,LABORATORIO-98,2185,BETA,236,risposta immune atipica
+VX-5108,cristatus,Necrosis lenta,QUARANTENA-85,2190,DELTA,88,letargo metabolico indotto
+VX-6960,verrucosus,Morbus stellaris,CRIOGENIA-58,2187,GAMMA,193,ipotermia critica
+MK-8851,tenuis,Helix parasiticus,CRIOGENIA-94,2193,BETA,51,portatore asintomatico
+ZT-6407,viridans,Helix parasiticus,TERAPIA-64,2184,BETA,225,parassita endocellulare attivo
+VX-9540,crassus,Febris exotica,DEGENZA-93,2194,BETA,201,portatore asintomatico
+XR-9463,rugosus,Cryptovirus mendacis,CRIOGENIA-60,2183,ALPHA,232,portatore asintomatico
+MK-5286,spinosus,Crystallis pathogenus,CRIOGENIA-82,2189,ALPHA,228,ipertermia resistente
+MK-4981,mucosus,Toxicus proliferans,QUARANTENA-69,2182,DELTA,79,portatore asintomatico
+ZT-3310,gelidus,Plasmodium galacticus,ISOLAMENTO-23,2190,DELTA,156,rigenerazione cellulare accelerata
+VX-2187,silens,Febris exotica,TERAPIA-50,2185,GAMMA,182,bioluminescenza patologica
+NB-2465,filiformis,Necrosis lenta,QUARANTENA-32,2186,DELTA,28,febbre emorragica in fase acuta
+ZT-3867,niger,Toxicus proliferans,TERAPIA-64,2185,DELTA,24,necrosi tissutale progressiva
+VX-5519,niger,Larvatus endocellulis,QUARANTENA-61,2185,DELTA,155,letargo metabolico indotto
+XR-2019,rugosus,Febris exotica,TERAPIA-32,2190,GAMMA,25,trasmissione per contatto diretto
+VX-6235,fulvus,Crystallis pathogenus,CRIOGENIA-23,2183,ALPHA,206,ipotermia critica
+VX-8525,niger,Morbus stellaris,TERAPIA-30,2190,BETA,244,febbre emorragica in fase acuta
+NB-9216,viridans,Fluidus invasivus,CRIOGENIA-42,2190,ALPHA,196,risposta immune atipica
+NB-6635,durus,Helix parasiticus,DEGENZA-27,2184,GAMMA,39,simbiosi patologica con flora locale
+XR-2786,glaucus,Helix parasiticus,DEGENZA-65,2193,GAMMA,218,trasmissione per contatto diretto
+XR-6317,cristatus,Febris exotica,LABORATORIO-59,2188,GAMMA,107,ipotermia critica
+XR-8753,caeruleus,Radiatus infectivus,LABORATORIO-83,2180,BETA,195,colonizzazione mucosa attiva
+VX-4725,mucosus,Radiatus infectivus,OSSERVAZIONE-41,2185,DELTA,211,ipotermia critica
+VX-6510,durus,Sporulans aerius,DEGENZA-72,2183,BETA,103,letargo metabolico indotto
+ZT-8639,glaucus,Necrosis lenta,DEGENZA-30,2185,BETA,76,letargo metabolico indotto
+ZT-7979,tremulus,Febris exotica,LABORATORIO-54,2184,DELTA,227,emissione di tossine dermiche
+VX-7809,ciliatus,Morbus stellaris,OSSERVAZIONE-74,2192,BETA,171,bioluminescenza patologica
+MK-2249,caeruleus,Symbiont muralis,OSSERVAZIONE-58,2186,ALPHA,114,rigenerazione cellulare accelerata
+NB-8531,nodosus,Larvatus endocellulis,ISOLAMENTO-87,2195,ALPHA,147,portatore asintomatico
+XR-2622,maculatus,Radiatus infectivus,LABORATORIO-20,2193,DELTA,150,paralisi neuromuscolare
+MK-5848,filiformis,Necrosis lenta,CRIOGENIA-96,2194,ALPHA,67,emissione di tossine dermiche
+ZT-3615,glaucus,Crystallis pathogenus,DEGENZA-91,2189,ALPHA,146,febbre emorragica in fase acuta
+ZT-6223,viridans,Febris exotica,CRIOGENIA-19,2194,ALPHA,152,simbiosi patologica con flora locale
+NB-5147,cristatus,Cryptovirus mendacis,CRIOGENIA-12,2183,BETA,56,sindrome da spore volatili
+VX-5440,brevis,Toxicus proliferans,OSSERVAZIONE-88,2192,GAMMA,159,febbre emorragica in fase acuta
+ZT-2687,durus,Larvatus endocellulis,OSSERVAZIONE-92,2187,BETA,62,ciclo larvale parassitario
+MK-8313,acutus,Morbus stellaris,LABORATORIO-56,2190,ALPHA,247,rigenerazione cellulare accelerata
+ZT-2883,asper,Helix parasiticus,CRIOGENIA-98,2189,BETA,47,sindrome da spore volatili
+XR-6934,gelidus,Crystallis pathogenus,CRIOGENIA-94,2194,BETA,242,parassita endocellulare attivo
+ZT-5045,laevis,Necrosis lenta,OSSERVAZIONE-20,2181,BETA,222,necrosi tissutale progressiva
+XR-4607,filiformis,Morbus stellaris,OSSERVAZIONE-56,2190,BETA,35,febbre emorragica in fase acuta
+NB-8577,filiformis,Sporulans aerius,QUARANTENA-36,2181,ALPHA,229,calcificazione ossea anomala
+XR-1107,filiformis,Crystallis pathogenus,QUARANTENA-91,2182,ALPHA,180,emissione di tossine dermiche
+NB-1368,aureus,Umbra consumens,ISOLAMENTO-54,2181,ALPHA,157,emissione di tossine dermiche
+NB-1439,maculatus,Crystallis pathogenus,CRIOGENIA-35,2182,ALPHA,81,sindrome da spore volatili
+ZT-5272,ciliatus,Cryptovirus mendacis,ISOLAMENTO-93,2193,BETA,181,necrosi tissutale progressiva
+VX-8824,filiformis,Radiatus infectivus,TERAPIA-67,2184,BETA,140,letargo metabolico indotto
+XR-2954,tremulus,Plasmodium galacticus,QUARANTENA-84,2183,ALPHA,213,portatore asintomatico
+XR-2740,tremulus,Calculus migratorius,OSSERVAZIONE-33,2189,ALPHA,233,rigenerazione cellulare accelerata
+ZT-8869,pallidus,Umbra consumens,CRIOGENIA-33,2190,DELTA,184,colonizzazione mucosa attiva
+NB-6076,flexus,Sporulans aerius,CRIOGENIA-26,2195,ALPHA,200,ipotermia critica
+VX-9434,crassus,Crystallis pathogenus,OSSERVAZIONE-95,2193,GAMMA,244,sindrome da spore volatili
+NB-7177,durus,Helix parasiticus,CRIOGENIA-95,2181,ALPHA,91,ipertermia resistente
+VX-1623,verrucosus,Morbus stellaris,ISOLAMENTO-56,2191,BETA,242,trasmissione per contatto diretto
+ZT-6899,rugosus,Crystallis pathogenus,LABORATORIO-46,2181,BETA,108,parassita endocellulare attivo
+XR-1994,acutus,Helix parasiticus,CRIOGENIA-21,2182,ALPHA,152,ciclo larvale parassitario
+ZT-2662,acutus,Calculus migratorius,LABORATORIO-11,2191,ALPHA,137,ipertermia resistente
+NB-6367,cristatus,Necrosis lenta,DEGENZA-64,2182,ALPHA,109,colonizzazione mucosa attiva
+VX-9691,pallidus,Radiatus infectivus,OSSERVAZIONE-36,2194,ALPHA,96,portatore asintomatico
+VX-7685,filiformis,Morbus stellaris,CRIOGENIA-55,2181,GAMMA,107,portatore asintomatico
+XR-5420,pallidus,Symbiont muralis,CRIOGENIA-97,2191,ALPHA,50,ipotermia critica
+VX-4948,mucosus,Necrosis lenta,ISOLAMENTO-13,2195,ALPHA,117,ipotermia critica
+ZT-7583,aureus,Larvatus endocellulis,LABORATORIO-46,2191,GAMMA,249,ciclo larvale parassitario
+XR-4433,caeruleus,Toxicus proliferans,QUARANTENA-97,2191,BETA,229,simbiosi patologica con flora locale
+XR-8579,aureus,Plasmodium galacticus,OSSERVAZIONE-20,2194,ALPHA,86,emissione di tossine dermiche
+NB-9625,cristatus,Febris exotica,ISOLAMENTO-77,2184,ALPHA,224,febbre emorragica in fase acuta
+XR-4185,aureus,Febris exotica,CRIOGENIA-20,2182,ALPHA,60,colonizzazione mucosa attiva
+NB-8706,fulvus,Morbus stellaris,OSSERVAZIONE-97,2187,BETA,22,simbiosi patologica con flora locale
+XR-2960,ramosus,Larvatus endocellulis,QUARANTENA-75,2181,BETA,174,parassita endocellulare attivo
