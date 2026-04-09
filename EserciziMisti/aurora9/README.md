@@ -9,5 +9,5 @@ Soluzioni di riferimento per gli esercizi progressivi del corso.
 - Array, ciclo  for ,  while read 
 - Command substitution  $( ) 
 - Redirezione  > ,  >> ,  < 
--  grep ,  cut ,  sort ,  uniq ,  wc ,  head ,  tail ,  basename 
+- grep ,  cut ,  sort ,  uniq ,  wc ,  head ,  tail ,  basename 
    
