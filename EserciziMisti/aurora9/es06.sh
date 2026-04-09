@@ -1,6 +1,8 @@
 #!/bin/bash
 
-read -n 4 -p "Inserisci il codice di accesso (4 caratteri): " codice
+MAX_CHARS=4
+
+read -n $MAX_CHARS -p "Inserisci il codice di accesso (4 caratteri): " codice
 echo
 
 if [ ${#codice} -ne 4 ]; then
