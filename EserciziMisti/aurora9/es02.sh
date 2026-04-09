@@ -31,5 +31,5 @@ if [ "$tipo" == "lunga" ]; then
     carburante=$((carburante * 120 / 100))
 fi
 
-echo "$tipo ${distanza}km → ${carburante}L" >> log_carburante.txt
+echo "$tipo ${distanza}km --> ${carburante}L" >> log_carburante.txt
 echo "Carburante necessario: ${carburante}L"
